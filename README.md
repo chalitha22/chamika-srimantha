@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamika Srimantha</h1>
 <h3 align="center">Mobile & Web Application Developer</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Bsc.(Hons) in Software Engineering @ Kingston University.**
 
