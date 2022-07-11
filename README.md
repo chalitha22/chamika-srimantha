@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chamika Srimantha</h1>
 <h3 align="center">Mobile & Web Application Developer</h3>
 <img align="center" alt="Coding" width="400" height="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
