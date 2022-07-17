@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)(https://rishavchanda.io)
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi 👋, I'm Chamika Srimantha</h1>
 <h3 align="center">Currently Mobile & Web Application Developer</h3>
 <img align="center" alt="Coding" width="400" height="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
