@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi 👋, I'm Chamika Srimantha</h1>
-<h3 align="center">Currently Mobile & Web Application Developer</h3>
+<h3 align="center">Professional & Qualified Mobile & Web Application Developer</h3>
 <img align="center" alt="Coding" width="400" height="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/chamika_rox" target="blank"><img src="https://img.shields.io/twitter/follow/chamika_rox?logo=twitter&style=for-the-badge" alt="chamika_rox" /></a> </p>
@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **chamikasrimantha2002@gmail.com**
 
-- 📫 My Personal Website **https://chamika.bss.design/**
+- 📫 My Personal Website 01 **https://chamika-srimantha.github.io/**
 
-- 📫 My Personal Website **https://chamika-srimantha.github.io/**
+- 📫 My Personal Website 02 **https://chamika.bss.design/**
+
+- 🚨 Follow me on Instagram **https://www.instagram.com/chamika_srimantha/**
 
 
 <h3 align="left">Connect with me:</h3>
