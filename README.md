@@ -13,6 +13,9 @@
 
 - 📫 My Personal Website **https://chamika.bss.design/**
 
+- 📫 My Personal Website **https://chamika-srimantha.github.io/**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chamika_rox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamika_rox" height="30" width="40" /></a>
